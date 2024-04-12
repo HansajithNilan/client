@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.container{
+    
+    
+  background-color: rgb(143, 223, 244);
+  margin-left:5rem;
+  width: 60%;
+  margin-top: 30rem ;
+  padding: 2.5rem 3.5rem;
+  border: 0.16rem solid #bebebe;
+  border-radius:0.5rem;
+  
+}
+
+
+form{
+  
+  text-align: left;
+
+}
+label{
+  font-size: 18px;
+  font-weight: 600;
+}
+h1{
+  font-weight: 800;
+}
+
+.roompc{
+  margin-top: 2rem;
+  width: 200px;
+  height: 120px;
+  }
+  
+
